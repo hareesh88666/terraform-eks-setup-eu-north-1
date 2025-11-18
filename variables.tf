@@ -35,7 +35,7 @@ variable "node_instance_type" {
 
 variable "node_desired_capacity" {
   type    = number
-  default = 3 
+  default = 3
 }
 
 variable "node_min_size" {
